@@ -1,0 +1,1 @@
+﻿<%@ ServiceHost Language="C#" Debug="true" Service="XPOService.WcfXpoSCService" CodeBehind="XPOService.svc.cs" %>
