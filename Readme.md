@@ -2,7 +2,7 @@
 *Files to look at*:
 
 * **[XPOInstantModeCRUDBehavior.cs](./CS/CRUDBehavior.SL/XPOInstantModeCRUDBehavior.cs) (VB: [XPOInstantModeCRUDBehavior.vb](./VB/CRUDBehavior.SL/XPOInstantModeCRUDBehavior.vb))**
-* [MainPage.xaml](./CS/XPOInstant.SL/MainPage.xaml) (VB: [MainPage.xaml.vb](./VB/XPOInstant.SL/MainPage.xaml.vb))
+* [MainPage.xaml](./CS/XPOInstant.SL/MainPage.xaml) (VB: [MainPage.xaml](./VB/XPOInstant.SL/MainPage.xaml))
 * [MainPage.xaml.cs](./CS/XPOInstant.SL/MainPage.xaml.cs) (VB: [MainPage.xaml.vb](./VB/XPOInstant.SL/MainPage.xaml.vb))
 <!-- default file list end -->
 # How to implement CRUD operations using DXGrid and eXpress Persistent Objects
